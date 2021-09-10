@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seun-works or you can just call me Seun for short.
+- 👋 Hi, I’m @Seun-works or you can just call me Seun for short. Welcome to my personal self development space in web development.
 - 👀 I’m interested in learning front-end development.
 - 🌱 I’m currently learning react.js and bootstrap.
 
