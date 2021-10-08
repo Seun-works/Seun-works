@@ -3,7 +3,7 @@
 - Seeing my first project come to life was the moment I realized that becoming a software developer was all I had been looking for. 
 - I'm also big on learning the intricacies of back-end development so that i can become a full-stack developer in the future.
 - 🌱 I’m currently learning react.js and nodeJS
-- The projects here are arranged from my first attempts at building a website or a feature, to my later attempts where i have a better understanding of the technologies i use.
+- The projects here are arranged from my first attempts at building a website or a feature, to my later attempts were i have a better understanding of the technologies i use.
 
 
 <!---
